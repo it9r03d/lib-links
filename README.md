@@ -6,6 +6,11 @@ url,bookmarks, link to book, documents, manuals
 ### php
 
 [awesome-php](https://github.com/ziadoz/awesome-php)
+> A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+[composer](https://getcomposer.org/)
+> Dependency Manager for PHP
+
 
 ### Markdown
 
@@ -66,7 +71,7 @@ url,bookmarks, link to book, documents, manuals
 [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
 
 
-###tools
+### tools
 
 [Adminer](https://www.adminer.org/en/)
 > Database management in a single PHP file
@@ -75,17 +80,15 @@ url,bookmarks, link to book, documents, manuals
 > lightweight SQL client
 > https://github.com/sqlectron/sqlectron-databases
 
+[sublimetext](https://www.sublimetext.com/)
+> A sophisticated text editor for code, markup and prose
+
 [gitignore](https://git-scm.com/docs/gitignore)
 
 [github/gitignore](https://github.com/github/gitignore)
 
 [gitignore.io](https://www.gitignore.io/)
 > Create useful .gitignore files for your project
-
-### Source
-
-[php-cli-menu](https://github.com/php-school/cli-menu)
-
 
 ### Utils
 
@@ -95,6 +98,8 @@ url,bookmarks, link to book, documents, manuals
 
 [Оптимизация загрузчика Composer](https://phptoday.ru/post/optimizaciya-zagruzchika-composer)
 
+[php-cli-menu](https://github.com/php-school/cli-menu)
+> Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
 
-
-
+[Laravel Console Menu](https://github.com/nunomaduro/laravel-console-menu)
+> Beautiful PHP CLI menus. Is a php-school/cli-menu wrapper for Laravel/Artisan Console Commands 
