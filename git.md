@@ -6,6 +6,11 @@
 > designed to handle everything from small
 > to very large projects with speed and efficiency.
 
+[git ready](http://gitready.com/)
+> learn git one commit at a time
+> by Nick Quaranto
+
+
 ##### `.gitignore`
 
 [gitignore](https://git-scm.com/docs/gitignore)
