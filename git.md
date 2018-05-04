@@ -10,6 +10,8 @@
 > learn git one commit at a time
 > by Nick Quaranto
 
+[External Links](https://book.git-scm.com/doc/ext)
+> Tutorials, Books, Videos, Courses
 
 ##### `.gitignore`
 
