@@ -1,6 +1,6 @@
 ### php
 
-![](./img/php.png)
+![](../img/php.png)
 
 [Awesome-PHP](https://github.com/ziadoz/awesome-php)
 > A curated list of amazingly awesome PHP libraries, resources and shiny things.
