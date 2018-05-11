@@ -13,7 +13,10 @@ url,bookmarks, link to book, documents, manuals
 
 ## Online
 
-[devdocs.io](https://devdocs.io/)
+[DevDocs](https://devdocs.io/)
+> DevDocs combines
+> multiple API documentations
+> in a fast, organized, and searchable interface.
 
 ### Laravel 
 
@@ -21,7 +24,7 @@ url,bookmarks, link to book, documents, manuals
 > A curated list of bookmarks, packages, tutorials, videos
 > and other cool resources from the Laravel ecosystem 
 
-[laracasts](https://laracasts.com)
+[Laracasts](https://laracasts.com)
 > Learn practical, modern web development, through expert screencasts.
 > Most video tutorials are boring.
 
@@ -44,6 +47,4 @@ url,bookmarks, link to book, documents, manuals
 [sublimetext](https://www.sublimetext.com/)
 > A sophisticated text editor for code, markup and prose
 
-#### Symbols
-`✗`
-
+[symbol](./man/symbol.md)

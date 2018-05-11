@@ -2,13 +2,13 @@
 
 ![](./img/php.png)
 
-[awesome-php](https://github.com/ziadoz/awesome-php)
+[Awesome-PHP](https://github.com/ziadoz/awesome-php)
 > A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
-[composer](https://getcomposer.org/)
+[Composer](https://getcomposer.org/)
 > Dependency Manager for PHP
 
-[learn-php](https://github.com/odan/learn-php)
+[Learn-php](https://github.com/odan/learn-php)
 > Learn modern PHP
 
 [laracasts:Recommended Reading](https://laracasts.com/recommended-reading)
