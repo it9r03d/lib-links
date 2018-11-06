@@ -42,3 +42,6 @@
 > We'll cover docker-compose, volumes, networks and more!
 
 [Docker PHP Xdebug CLI debugging](https://sandro-keil.de/blog/2015/10/05/docker-php-xdebug-cli-debugging/)
+
+[Шпаргалка по пакетному менеджеру NPM](https://habr.com/post/133363/)
+
