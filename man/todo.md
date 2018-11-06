@@ -24,5 +24,9 @@
 [Packagist](https://packagist.org/)
 > The PHP Package Repository
 
+[tmux](https://github.com/tmux/tmux/wiki)
+>tmux is a terminal multiplexer.
+
+[mc](https://midnight-commander.org/)
 
 `...`
