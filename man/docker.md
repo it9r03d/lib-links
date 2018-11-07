@@ -16,3 +16,9 @@
 ### docker, docker-compose, install
 
 [Docker: Installing Docker CE on Ubuntu 14.04 and 16.04](https://fabianlee.org/2017/03/07/docker-installing-docker-ce-on-ubuntu-14-04-and-16-04/)
+
+
+### awesome
+
+[veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
+> A curated list of Docker resources and projects https://awesome-docker.netlify.com/
