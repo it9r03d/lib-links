@@ -29,7 +29,13 @@
 
 [mc](https://midnight-commander.org/)
 
+
 [remarkableapp.github.io](https://remarkableapp.github.io/)
+
+
+[wttr.in](https://github.com/chubin/wttr.in)
+> The right way to check the weather 
+> `curl wttr.in`
 
 
 `...`
