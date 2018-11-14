@@ -11,12 +11,39 @@ url,bookmarks, link to book, documents, manuals
 
 [git](man/git.md)
 
-## Online
+
+## Documentation Online and Offline
+
+[quickDocs](https://github.com/mdh34/quickDocs)
+> A fast developer docs reader. quickly read developer documentation
+>> Doc Sources: Valadoc, DevDocs
+
+#### DevDocs
 
 [DevDocs](https://devdocs.io/)
 > DevDocs combines
 > multiple API documentations
 > in a fast, organized, and searchable interface.
+
+[devdocs](https://github.com/freeCodeCamp/devdocs)
+> API Documentation Browser https://devdocs.io
+
+[DevDocs Desktop](https://devdocs.egoist.rocks/)
+
+[A full-featured desktop app for DevDocs.io](https://github.com/egoist/devdocs-desktop)
+> A full-featured desktop app for DevDocs.io. https://devdocs.egoist.rocks
+> DevDocs.io combines multiple API documentations in a fast, organized, and searchable interface.
+> This is an unofficial desktop app for it.
+
+[trello.com:devdocs-documentatio](https://trello.com/b/6BmTulfx/devdocs-documentation)
+
+[DevDocs Desktop](https://devdocs.egoist.moe/)
+
+#### ZealDocs
+
+[ZealDocs](https://zealdocs.org/)
+> Zeal is an offline documentation browser for software developers.
+
 
 ### Laravel 
 
