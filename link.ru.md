@@ -50,3 +50,7 @@
 [Консорциум Всемирной паутины (World Wide Web Consortium, W3C)](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D0%BE%D1%80%D1%86%D0%B8%D1%83%D0%BC_%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B9_%D0%BF%D0%B0%D1%83%D1%82%D0%B8%D0%BD%D1%8B)
 
 [Russian Translations of W3C Documents (Русские переводы документов W3C)](https://www.w3.org/2005/11/Translations/Lists/ListLang-ru.html)
+
+### Documentation
+
+[DevDocs: вся документация разработчика в одном месте, с быстрым и удобным интерфейсом](https://habr.com/post/211436/)
