@@ -11,8 +11,9 @@ url,bookmarks, link to book, documents, manuals
 
 [git](man/git.md)
 
-
 ## Documentation Online and Offline
+## Online
+>> saved old link
 
 [quickDocs](https://github.com/mdh34/quickDocs)
 > A fast developer docs reader. quickly read developer documentation
