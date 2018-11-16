@@ -1,11 +1,5 @@
 ### Markdown
 
-[Markdown-en.wiki](https://en.wikipedia.org/wiki/Markdown)
+[en.wiki](https://en.wikipedia.org/wiki/Markdown) | [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Tutorial](https://www.markdowntutorial.com/)
 
-[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[Markdown-Tutorial](https://www.markdowntutorial.com/)
-
-[Markdown](https://blog.ghost.org/markdown/)
-
-[Markdown-guide](https://guides.github.com/features/mastering-markdown/)
+[blog.ghost.org](https://blog.ghost.org/markdown/) | [guides.github.com](https://guides.github.com/features/mastering-markdown/)
