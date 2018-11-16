@@ -30,18 +30,8 @@
 [Packagist](https://packagist.org/)
 > The PHP Package Repository
 
-[tmux](https://github.com/tmux/tmux/wiki)
->tmux is a terminal multiplexer.
-
-[mc](https://midnight-commander.org/)
-
-
-[remarkableapp.github.io](https://remarkableapp.github.io/)
-
-
-[wttr.in](https://github.com/chubin/wttr.in)
-> The right way to check the weather 
-> `curl wttr.in`
+[mc](https://midnight-commander.org/) | [remarkableapp.github.io](https://remarkableapp.github.io/) | [tmux](https://github.com/tmux/tmux/wiki) `tmux is a terminal multiplexer.` | [wttr.in](https://github.com/chubin/wttr.in)
+``` The right way to check the weather `curl wttr.in` ```
 
 ##### Ubuntu
 > @todo: to special section
