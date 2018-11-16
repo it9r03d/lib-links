@@ -9,6 +9,8 @@ url,bookmarks, link to book, documents, manuals
 
 [docker](man/docker.md)
 
+[vagrant](man/todo.md#vagrant)
+
 [git](man/git.md)
 
 ## Documentation Online and Offline
