@@ -55,3 +55,7 @@
 
 
 `...`
+
+[Safe Eyes](https://github.com/slgobinath/SafeEyes#safe-eyes "Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder. A Free and Open Source Linux alternative to EyeLeo.")
+> http://slgobinath.github.io/SafeEyes/
+
