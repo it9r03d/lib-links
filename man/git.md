@@ -1,19 +1,12 @@
 ### Git
 
-[Git](https://git-scm.com/)
+[Git](https://git-scm.com/) | [Git Source Code Mirror](https://github.com/git/git "This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.")
 > Git is a free and open source
 > distributed version control system
 > designed to handle everything from small
 > to very large projects with speed and efficiency.
 
-[Git Ready](http://gitready.com/)
-> learn git one commit at a time
-> by Nick Quaranto
-
-[External Links](https://book.git-scm.com/doc/ext)
-> Tutorials, Books, Videos, Courses
-
-[Git User Manual](https://git.github.io/htmldocs/user-manual.html)
+[Git Ready](http://gitready.com/ "learn git one commit at a time") |  [External Links](https://book.git-scm.com/doc/ext "Tutorials, Books, Videos, Courses") | [Git User Manual](https://git.github.io/htmldocs/user-manual.html)
 
 `Manual Page`
 
@@ -21,9 +14,4 @@
 
 ##### `.gitignore`
 
-[gitignore](https://git-scm.com/docs/gitignore)
-
-[github/gitignore](https://github.com/github/gitignore)
-
-[gitignore.io](https://www.gitignore.io/)
-> Create useful .gitignore files for your project
+[gitignore](https://git-scm.com/docs/gitignore) | [github/gitignore](https://github.com/github/gitignore) | [gitignore.io](https://www.gitignore.io/ "Create useful .gitignore files for your project")
