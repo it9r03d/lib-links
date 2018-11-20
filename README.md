@@ -8,30 +8,18 @@ url,bookmarks, link to book, documents, manuals
 ## Online
 >> saved old link
 
-[quickDocs](https://github.com/mdh34/quickDocs)
-> A fast developer docs reader. quickly read developer documentation
->> Doc Sources: Valadoc, DevDocs
+[quickDocs](https://github.com/mdh34/quickDocs "A fast developer docs reader. quickly read developer documentation") 
 
 #### DevDocs
-
-[DevDocs](https://devdocs.io/)
-> DevDocs combines
-> multiple API documentations
-> in a fast, organized, and searchable interface.
-
-[devdocs](https://github.com/freeCodeCamp/devdocs)
-> API Documentation Browser https://devdocs.io
-
-[DevDocs Desktop](https://devdocs.egoist.rocks/)
-
-[A full-featured desktop app for DevDocs.io](https://github.com/egoist/devdocs-desktop)
-> A full-featured desktop app for DevDocs.io. https://devdocs.egoist.rocks
 > DevDocs.io combines multiple API documentations in a fast, organized, and searchable interface.
-> This is an unofficial desktop app for it.
+
+[DevDocs](https://devdocs.io/ "DevDocs combines multiple API documentations in a fast, organized, and searchable interface.") | [devdocs](https://github.com/freeCodeCamp/devdocs "API Documentation Browser") | [DevDocs Desktop](https://devdocs.egoist.rocks/) | [DevDocs Desktop](https://devdocs.egoist.moe/)
+
+[A full-featured desktop app for DevDocs.io](https://github.com/egoist/devdocs-desktop "DevDocs.io combines multiple API documentations in a fast, organized, and searchable interface.")
+> A full-featured desktop app for DevDocs.io. https://devdocs.egoist.rocks 
 
 [trello.com:devdocs-documentatio](https://trello.com/b/6BmTulfx/devdocs-documentation)
 
-[DevDocs Desktop](https://devdocs.egoist.moe/)
 
 #### ZealDocs
 
@@ -41,32 +29,14 @@ url,bookmarks, link to book, documents, manuals
 
 ### Laravel 
 
-[awesome-laravel](https://github.com/chiraggude/awesome-laravel)
-> A curated list of bookmarks, packages, tutorials, videos
-> and other cool resources from the Laravel ecosystem 
-
-[Laracasts](https://laracasts.com)
-> Learn practical, modern web development, through expert screencasts.
-> Most video tutorials are boring.
-
-[The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
+[awesome-laravel](https://github.com/chiraggude/awesome-laravel "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem") | [Laracasts](https://laracasts.com "Learn practical, modern web development, through expert screencasts. Most video tutorials are boring.") | [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
 
 
 ### tools
 
-[Adminer](https://www.adminer.org/en/)
-> Database management in a single PHP file
+[Adminer](https://www.adminer.org/en/ "Database management in a single PHP file") | [sqlectron](https://sqlectron.github.io/ "A simple and lightweight SQL client desktop/terminal with cross database and platform support.") | [sqlectron-gui](https://github.com/sqlectron/sqlectron-gui/releases "A desktop application with a simple interface.")
 
-[sqlectron](https://sqlectron.github.io/)
-> A simple and lightweight SQL client desktop/terminal
-> with cross database and platform support.
->> Available for Linux, Mac and Windows
-
-[sqlectron-gui](https://github.com/sqlectron/sqlectron-gui/releases)
-> A desktop application with a simple interface.
-
-[sublimetext](https://www.sublimetext.com/)
-> A sophisticated text editor for code, markup and prose
+[sublimetext](https://www.sublimetext.com/ "A desktop application with a simple interface.")
 
 [symbol](./man/symbol.md)
 
