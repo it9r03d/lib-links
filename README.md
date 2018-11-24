@@ -33,8 +33,6 @@ url,bookmarks, link to book, documents, manuals
 
 ### tools
 
-[Adminer](https://www.adminer.org/en/ "Database management in a single PHP file") | [sqlectron](https://sqlectron.github.io/ "A simple and lightweight SQL client desktop/terminal with cross database and platform support.") | [sqlectron-gui](https://github.com/sqlectron/sqlectron-gui/releases "A desktop application with a simple interface.")
-
 [sublimetext](https://www.sublimetext.com/ "A desktop application with a simple interface.")
 
 [symbol](./man/symbol.md)
