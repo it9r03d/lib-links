@@ -10,3 +10,5 @@
 
 [Learn-php](https://github.com/odan/learn-php)
 > Learn modern PHP
+
+[The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
