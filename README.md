@@ -2,7 +2,7 @@
 url,bookmarks, link to book, documents, manuals
 
 [tutorial](man/tutorial.md) | [php](man/php.md) | [markdown](man/markdown.md) | [git](man/git.md) |
-[docker](man/docker.md) | [vagrant](man/todo.md#vagrant)
+[docker](man/docker.md) | [vagrant](man/environment.md) | [ubuntu](man/ubuntu.md#ubuntu)
 
 ## Documentation Online and Offline
 ## Online
