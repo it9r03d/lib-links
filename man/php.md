@@ -10,8 +10,3 @@
 
 [Learn-php](https://github.com/odan/learn-php)
 > Learn modern PHP
-
-[laracasts:Recommended Reading](https://laracasts.com/recommended-reading)
-> The reality is that, to make it in this industry,
-> you must learn from a variety of resources.
-> In the market for a new book? We recommend...
