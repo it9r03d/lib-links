@@ -10,3 +10,5 @@
 * `en.wikipedia.org`
 
 [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) | [Ubuntu_philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) | [Ubuntu version history](https://en.wikipedia.org/wiki/Ubuntu_version_history) | [Ubuntu (disambiguation)](https://en.wikipedia.org/wiki/Ubuntu_(disambiguation)) | [Ubuntu theology](https://en.wikipedia.org/wiki/Ubuntu_theology)
+
+* [Basic snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/basic-snap-usage#0 "In this tutorial, we are going to cover the very basic on how to use snaps on your distributions, and the main benefits from them.")
