@@ -15,4 +15,5 @@
 
 * [link-ru](link.ru.md)
 
+* `ubuntu | docker | vagrant | laravel | dev`
 `...`
