@@ -1,4 +1,4 @@
-### Ubuntu
+##### Ubuntu
 
 [Ubuntu Manpage](http://manpages.ubuntu.com/) | [Ubuntu Wiki](https://wiki.ubuntu.com/) | [Ubuntu Help(man)](https://help.ubuntu.com/community/man) | [Ubuntu fridge](http://fridge.ubuntu.com/)
 
@@ -6,6 +6,10 @@
 
 [Ubuntu are available](http://releases.ubuntu.com/) | [Ubuntu Releases](https://wiki.ubuntu.com/Releases) | [Old Ubuntu Releases](http://old-releases.ubuntu.com/releases/) | [USNs by release](https://usn.ubuntu.com/releases/) | [ubuntu Budgie](https://ubuntubudgie.org/)
 
+* `downloads and installation`
+
+[Installation](https://help.ubuntu.com/community/Installation) | [Alternative downloads](https://www.ubuntu.com/download/alternative-downloads) | 
+[Installation/Netboot](https://help.ubuntu.com/community/Installation/Netboot) | [Installation/MinimalCD](https://help.ubuntu.com/community/Installation/MinimalCD)
 
 * `en.wikipedia.org`
 
