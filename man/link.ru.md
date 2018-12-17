@@ -45,6 +45,19 @@
 
 [Шпаргалка по пакетному менеджеру NPM](https://habr.com/post/133363/)
 
+[Последовательное выполнение задач в Gulp JS](https://habr.com/post/240485/)
+
+[Понимаем и работаем с gulp](https://habr.com/post/344626/)
+
+[Gulp.watch: ловим ошибки правильно](https://habr.com/post/259225/)
+
+[Сборка проектов с помощью Gulp.js. Семинар в Яндексе](https://habr.com/company/yandex/blog/239993/)
+
+[Продвинутый Gulp и Browserify: интересные трюки](https://habr.com/post/242379/)
+
+[Самые нужные плагины для Gulp](https://habr.com/post/252745/)
+
+
 ### Web Standards
 
 [Консорциум Всемирной паутины (World Wide Web Consortium, W3C)](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D0%BE%D1%80%D1%86%D0%B8%D1%83%D0%BC_%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B9_%D0%BF%D0%B0%D1%83%D1%82%D0%B8%D0%BD%D1%8B)
