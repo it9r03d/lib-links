@@ -7,8 +7,6 @@
 
 * [link-ru](link.ru.md)
 
-* `ubuntu | docker | vagrant | laravel | dev`
-
 * zsh, [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins), [fish](https://github.com/fish-shell/fish-shell)
 
 * [vim-awesome](https://github.com/vim-awesome/vim-awesome), [vim-practice](https://github.com/oldratlee/vim-practice), [oh-my-vim](https://github.com/liangxianzhe/oh-my-vim)
