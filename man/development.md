@@ -1,4 +1,4 @@
-### Development with Docker, Laravel
+##### Development with Docker, Laravel
 
 [Laravel Development with Docker](https://kyleferg.com/laravel-development-with-docker/)
 
