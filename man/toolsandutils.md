@@ -1,7 +1,9 @@
 
 ##### tools
 
-*  [mc](https://midnight-commander.org/) | [tmux:github](https://github.com/tmux/tmux/wiki "tmux is a terminal multiplexer.") | [tilix:github](https://github.com/gnunn1/tilix) | [tilix-web](https://gnunn1.github.io/tilix-web/) 
+*  [mc](https://midnight-commander.org/) | [tmux:github](https://github.com/tmux/tmux/wiki "tmux is a terminal multiplexer.")
+
+* [tilix:github](https://github.com/gnunn1/tilix) | [tilix-web](https://gnunn1.github.io/tilix-web/) 
 
 * zsh, [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 ```bash
