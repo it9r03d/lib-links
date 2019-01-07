@@ -5,6 +5,8 @@
 
 * [termite](https://github.com/thestinger/termite)
 
+`sort`
+* [tools&utils](/man/toolsandutils.md)
 
 `reorganize`
 
