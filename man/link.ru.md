@@ -5,6 +5,8 @@
 > интересных постах в блогах
 > и современных подходах к разработке
 
+[Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
+
 ### Docker
 
 [Шпаргалка с командами Docker #habr #Docker](https://habrahabr.ru/company/flant/blog/336654/)
