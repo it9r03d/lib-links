@@ -7,7 +7,7 @@
 
 * [NVM](https://github.com/creationix/nvm 'Node Version Manager - Simple bash script to manage multiple active node.js versions ') | [nodejs](https://github.com/nodejs/node 'Node.js JavaScript runtime') | [npm](https://github.com/npm/cli)
 
-* `PHP`
+`PHP`
 * [sebastian-bergmann](https://sebastian-bergmann.de/) | [github](https://github.com/sebastianbergmann)
 * [publications](https://sebastian-bergmann.de/publications.html) | [presentations](https://sebastian-bergmann.de/presentations.html)
 * https://thephp.cc/welcome
