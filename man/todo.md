@@ -15,7 +15,7 @@
 `sort`
 * [tools&utils](/man/toolsandutils.md)
 
-* * [Symfony](https://symfony.com/ "Symfony, High Performance PHP Framework for Web Development")
+* * [Symfony](https://symfony.com/ "Symfony, High Performance PHP Framework for Web Development") | [github](https://github.com/symfony/symfony)
 
 `reorganize`
 
