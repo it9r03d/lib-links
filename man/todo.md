@@ -22,3 +22,11 @@
 * [link-ru](link.ru.md)
 
 * `...`
+
+`colorize terminal`
+* https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
+
+* https://www.tecmint.com/customize-bash-colors-terminal-prompt-linux/
+
+* https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment
+
