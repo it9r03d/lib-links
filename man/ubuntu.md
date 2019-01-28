@@ -4,7 +4,7 @@
 
 * `Releases`
 
-[Ubuntu are available](http://releases.ubuntu.com/) | [Ubuntu Releases](https://wiki.ubuntu.com/Releases) | [Old Ubuntu Releases](http://old-releases.ubuntu.com/releases/) | [USNs by release](https://usn.ubuntu.com/releases/) | [ubuntu Budgie](https://ubuntubudgie.org/)| [github](https://github.com/UbuntuBudgie)
+[Ubuntu are available](http://releases.ubuntu.com/) | [Ubuntu Releases](https://wiki.ubuntu.com/Releases) | [Old Ubuntu Releases](http://old-releases.ubuntu.com/releases/) | [USNs by release](https://usn.ubuntu.com/releases/) | [ubuntu Budgie](https://ubuntubudgie.org/) | [github](https://github.com/UbuntuBudgie) | [flavours](https://www.ubuntu.com/download/flavours)
 
 * `downloads and installation`
 
