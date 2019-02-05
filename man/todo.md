@@ -20,8 +20,6 @@
 
 `reorganize`
 
-* [link-ru](link.ru.md)
-
 * `...`
 
 `colorize terminal`
