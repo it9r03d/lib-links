@@ -17,11 +17,10 @@
 
 `snap`
 
-[Basic snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/basic-snap-usage#0 "In this tutorial, we are going to cover the very basic on how to use snaps on your distributions, and the main benefits from them.")
+[Basic snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/basic-snap-usage#0 "In this tutorial, we are going to cover the very basic on how to use snaps on your distributions, and the main benefits from them.") | [Complete Guide:Snap Packages](https://itsfoss.com/use-snap-packages-ubuntu-16-04/ 'Complete Guide for Using Snap Packages In Ubuntu and Other Linux Distributions')
 
 [Snapcraft](https://developer.ubuntu.com/snapcraft) | [snapcraft.io](https://snapcraft.io/ 'A universal app store for Linux') | [Search of snaps](https://snapcraft.io/store) 
 
-[Complete Guide:Snap Packages](https://itsfoss.com/use-snap-packages-ubuntu-16-04/ 'Complete Guide for Using Snap Packages In Ubuntu and Other Linux Distributions')
 
 `...`
 
