@@ -24,4 +24,5 @@
 [Complete Guide:Snap Packages](https://itsfoss.com/use-snap-packages-ubuntu-16-04/ 'Complete Guide for Using Snap Packages In Ubuntu and Other Linux Distributions')
 
 `...`
+
 [Complete Beginners Guide:apt-get](https://itsfoss.com/apt-get-linux-guide/)
