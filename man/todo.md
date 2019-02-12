@@ -21,6 +21,8 @@
 `reorganize`
 
 * `...`
+`space`
+* https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space
 
 `colorize terminal`
 * https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
