@@ -17,6 +17,7 @@
 
 `sort`
 * [tools&utils](/man/toolsandutils.md)
+* [php-cli-tools](https://github.com/wp-cli/php-cli-tools 'A collection of tools to help with PHP command line utilities ')
 
 `reorganize`
 
