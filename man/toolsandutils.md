@@ -19,7 +19,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 * [Safe Eyes](http://slgobinath.github.io/SafeEyes/ "Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder. A Free and Open Source Linux alternative to EyeLeo.") | [SafeEyes:github](https://github.com/slgobinath/SafeEyes#safe-eyes)
 
-* [symbol](./man/symbol.md)
+* [symbol](./symbol.md)
 
 
 `weather`
