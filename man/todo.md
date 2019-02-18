@@ -8,11 +8,6 @@
 * [NVM](https://github.com/creationix/nvm 'Node Version Manager - Simple bash script to manage multiple active node.js versions ') | [nodejs](https://github.com/nodejs/node 'Node.js JavaScript runtime') | [nodejs/Release
 ](https://github.com/nodejs/Release 'Node.js Foundation Release Working Group ') | [npm](https://github.com/npm/cli)
 
-`PHP`
-* [sebastian-bergmann](https://sebastian-bergmann.de/) | [github](https://github.com/sebastianbergmann)
-* [publications](https://sebastian-bergmann.de/publications.html) | [presentations](https://sebastian-bergmann.de/presentations.html)
-* https://thephp.cc/welcome
-
 `sort`
 * [tools&utils](/man/toolsandutils.md)
 * [php-cli-tools](https://github.com/wp-cli/php-cli-tools 'A collection of tools to help with PHP command line utilities ')
@@ -44,4 +39,3 @@ deborphan --guess-all --libdevel | xargs apt-get -s purge
 * https://www.tecmint.com/customize-bash-colors-terminal-prompt-linux/
 
 * https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment
-
