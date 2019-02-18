@@ -24,6 +24,8 @@
 * * `find / -size +50000  -exec ls -lahg {} \;`
 * show top 10 biggest subdirs in the current dir.
 * * `du -skh * | sort -nr | head -10`
+* see list of all installed packages, sorted by size. If you see something big and don't use it - uninstall it
+* * `dpkg-query -W --showformat='${Installed-Size} ${Package}\n' | sort -nr | less`
 * tools
 ```
 sudo apt-get install ncdu debian-goodies deborphan
