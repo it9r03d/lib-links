@@ -1,7 +1,7 @@
 `url, bookmarks, link to book, documents, manuals`
 
 [tutorial](man/tutorial.md) | [php](man/php.md) | [markdown](man/markdown.md) | [git](man/git.md) |
- [w3c](man/w3c.md) | [db](man/db.md) | [ubuntu](man/ubuntu.md#ubuntu) | [env:docker&vagrant](man/environment.md) | [laravel](./man/laravel.md) | [dev](man/development.md) | [tools&utils](man/toolsandutils.md) | [todo](man/todo.md)
+ [w3c](man/w3c.md) | [db](man/db.md) | [ubuntu](man/ubuntu.md#ubuntu) | [env:docker&vagrant](man/environment.md) |  [dev](man/development.md) | [tools&utils](man/toolsandutils.md) | [todo](man/todo.md)
 
 ###### Documentation Online and Offline
 
