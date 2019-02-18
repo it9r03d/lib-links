@@ -8,9 +8,10 @@
 * [NVM](https://github.com/creationix/nvm 'Node Version Manager - Simple bash script to manage multiple active node.js versions ') | [nodejs](https://github.com/nodejs/node 'Node.js JavaScript runtime') | [nodejs/Release
 ](https://github.com/nodejs/Release 'Node.js Foundation Release Working Group ') | [npm](https://github.com/npm/cli)
 
+
 `sort`
 * [tools&utils](/man/toolsandutils.md)
-* [php-cli-tools](https://github.com/wp-cli/php-cli-tools 'A collection of tools to help with PHP command line utilities ')
+
 
 `reorganize`
 
