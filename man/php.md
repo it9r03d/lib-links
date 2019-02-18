@@ -11,3 +11,7 @@
 [PHP: Hypertext Preprocessor](http://php.net/)
 
 [PHPUnit.de](https://phpunit.de/) | [PHPUnit:github.com](https://github.com/sebastianbergmann/phpunit)
+
+* [sebastian-bergmann](https://sebastian-bergmann.de/) | [github](https://github.com/sebastianbergmann)
+* [publications](https://sebastian-bergmann.de/publications.html) | [presentations](https://sebastian-bergmann.de/presentations.html)
+* [thePHP.cc](https://thephp.cc/welcome)
