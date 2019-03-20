@@ -10,6 +10,11 @@
 
 * javascript (js), python
 
+`OS`
+
+* [deepin](https://www.deepin.org/en/) | [solus](https://getsol.us/home/)
+
+
 `sort`
 * [tools&utils](/man/toolsandutils.md)
 
