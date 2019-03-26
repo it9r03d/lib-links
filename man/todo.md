@@ -12,9 +12,7 @@
 
 `OS`
 
-* [deepin](https://www.deepin.org/en/) | [solus](https://getsol.us/home/)
-
-* [opensuse](https://www.opensuse.org/)
+* [deepin](https://www.deepin.org/en/) | [opensuse](https://www.opensuse.org/) | [solus](https://getsol.us/home/)
 
 
 `sort`
