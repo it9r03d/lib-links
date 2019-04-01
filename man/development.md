@@ -15,4 +15,4 @@
 
 [Laravel](./laravel.md)
 
-[Symfony](https://symfony.com/ "Symfony, High Performance PHP Framework for Web Development") | [github](https://github.com/symfony/symfony) | [Documentation](https://symfony.com/doc/current/index.html) | [SymfonyCasts](https://symfonycasts.com/ "PHP and Symfony Video Tutorial Screencasts")
+[Symfony](https://symfony.com/ "Symfony, High Performance PHP Framework for Web Development") | [github](https://github.com/symfony/symfony) | [Documentation](https://symfony.com/doc/current/index.html) | [SymfonyCasts](https://symfonycasts.com/ "PHP and Symfony Video Tutorial Screencasts") | [Flex](https://symfony.com/doc/current/setup/flex.html)
