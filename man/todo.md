@@ -8,7 +8,7 @@
 * [NVM](https://github.com/creationix/nvm 'Node Version Manager - Simple bash script to manage multiple active node.js versions ') | [nodejs](https://github.com/nodejs/node 'Node.js JavaScript runtime') | [nodejs/Release
 ](https://github.com/nodejs/Release 'Node.js Foundation Release Working Group ') | [npm](https://github.com/npm/cli)
 
-* javascript (js), python
+* javascript (js), [python](https://www.python.org/) | [doc](https://www.python.org/doc/)
 
 `OS`
 
