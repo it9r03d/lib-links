@@ -7,7 +7,7 @@
 [Ubuntu are available](http://releases.ubuntu.com/) | [Ubuntu Releases](https://wiki.ubuntu.com/Releases) | [Old Ubuntu Releases](http://old-releases.ubuntu.com/releases/) | [USNs by release](https://usn.ubuntu.com/releases/) | [flavours](https://www.ubuntu.com/download/flavours)
 
 [Ubuntu Budgie](https://ubuntubudgie.org/) | [github](https://github.com/UbuntuBudgie) | [Xubuntu](https://xubuntu.org/) |
- [Lubuntu.net](https://lubuntu.net/) | [Lubuntu.me](https://lubuntu.me/)
+ [Lubuntu.net](https://lubuntu.net/) | [Lubuntu.me](https://lubuntu.me/) | [Lubuntu Manual](https://manual.lubuntu.me/)
 
 * `downloads and installation`
 
