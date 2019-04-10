@@ -14,6 +14,8 @@
 
 * [deepin](https://www.deepin.org/en/) | [opensuse](https://www.opensuse.org/) | [solus](https://getsol.us/home/)
 
+* [LinuxMint](https://linuxmint.com/)
+
 
 `sort`
 * [tools&utils](/man/toolsandutils.md)
