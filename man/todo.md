@@ -8,6 +8,8 @@
 * [NVM](https://github.com/creationix/nvm 'Node Version Manager - Simple bash script to manage multiple active node.js versions ') | [nodejs](https://github.com/nodejs/node 'Node.js JavaScript runtime') | [nodejs/Release
 ](https://github.com/nodejs/Release 'Node.js Foundation Release Working Group ') | [npm](https://github.com/npm/cli)
 
+* [Electron](https://electronjs.org/ 'Build cross platform desktop apps with JavaScript, HTML, and CSS') | [Electron Apps](https://electronjs.org/apps) | [github](https://github.com/electron/electron)
+
 * javascript (js), [python](https://www.python.org/) | [doc](https://www.python.org/doc/)
 
 `OS`
