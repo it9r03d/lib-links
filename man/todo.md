@@ -10,7 +10,7 @@
 
 * [Electron](https://electronjs.org/ 'Build cross platform desktop apps with JavaScript, HTML, and CSS') | [Electron Apps](https://electronjs.org/apps) | [github](https://github.com/electron/electron)
 
-* javascript (js), [python](https://www.python.org/) | [doc](https://www.python.org/doc/)
+* javascript (js), [python](https://www.python.org/) | [doc](https://www.python.org/doc/), [lua](https://www.lua.org/)
 
 `OS`
 
