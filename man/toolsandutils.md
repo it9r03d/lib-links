@@ -14,6 +14,8 @@
 
 * [vim-awesome](https://github.com/vim-awesome/vim-awesome), [vim-practice](https://github.com/oldratlee/vim-practice), [oh-my-vim](https://github.com/liangxianzhe/oh-my-vim)
 
+`GUI`
+
 * [sublimetext](https://www.sublimetext.com/ "A desktop application with a simple interface.") | [packagecontrol.io](https://packagecontrol.io/) | [MarkdownPreview](https://facelessuser.github.io/MarkdownPreview/) | [jikeytang:github](https://github.com/jikeytang/sublime-text)
 
 * [VSCode](https://code.visualstudio.com/ 'Free. Open source. Runs everywhere.') | [vscode:github](https://github.com/Microsoft/vscode)
