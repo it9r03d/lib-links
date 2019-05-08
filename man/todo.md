@@ -3,7 +3,7 @@
 #### more ...
 > useful, helpful, beneficial, wholesome, valuable, effective, advantageous, practical, salutary, adjuvant
 
-* [termite](https://github.com/thestinger/termite)
+* [termite](https://github.com/thestinger/termite) | [Guake](https://github.com/Guake/guake 'Drop-down terminal for GNOME http://guake-project.org') | [guake-project](http://guake-project.org/)
 
 * [NVM](https://github.com/creationix/nvm 'Node Version Manager - Simple bash script to manage multiple active node.js versions ') | [nodejs](https://github.com/nodejs/node 'Node.js JavaScript runtime') | [nodejs/Release
 ](https://github.com/nodejs/Release 'Node.js Foundation Release Working Group ') | [npm](https://github.com/npm/cli)
