@@ -26,7 +26,7 @@
 
 `weather`
  
-* [wttr.in](https://github.com/chubin/wttr.in "The right way to check the weather `curl wttr.in`")
+* [wttr.in:github](https://github.com/chubin/wttr.in "The right way to check the weather `curl wttr.in`")
 
 * [weather forecasting](https://darksky.net "The Dark Sky Company specializes in weather forecasting and visualization.")
 
