@@ -8,6 +8,8 @@
 
 * [tilix:github](https://github.com/gnunn1/tilix) | [tilix-web](https://gnunn1.github.io/tilix-web/) 
 
+* [termite](https://github.com/thestinger/termite) | [Guake](https://github.com/Guake/guake 'Drop-down terminal for GNOME http://guake-project.org') | [guake-project](http://guake-project.org/)
+
 * zsh, [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 * [fish](https://github.com/fish-shell/fish-shell)
