@@ -12,6 +12,8 @@
 
 * javascript (js), [python](https://www.python.org/) | [doc](https://www.python.org/doc/), [lua](https://www.lua.org/)
 
+* [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)
+
 `sort`
 * [tools&utils](/man/toolsandutils.md)
 
