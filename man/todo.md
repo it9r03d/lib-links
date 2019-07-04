@@ -20,9 +20,6 @@
 
 * [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)
 
-`sort`
-* [tools&utils](/man/toolsandutils.md)
-
 `reorganize`
 
 * `...`
