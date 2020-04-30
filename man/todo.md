@@ -18,6 +18,8 @@
 
 * javascript (js), [python](https://www.python.org/) | [doc](https://www.python.org/doc/), [lua](https://www.lua.org/)
 
+* [terminus](https://eugeny.github.io/terminus/)
+
 *
 
 * [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)
