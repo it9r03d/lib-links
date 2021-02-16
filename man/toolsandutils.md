@@ -4,7 +4,7 @@
 
 ##### tools
 
-*  [mc](https://midnight-commander.org/) | [tmux:github](https://github.com/tmux/tmux/wiki "tmux is a terminal multiplexer.")
+*  [mc](https://midnight-commander.org/) | [mc:github](https://github.com/MidnightCommander/mc) | [tmux:github](https://github.com/tmux/tmux/wiki "tmux is a terminal multiplexer.")
 
 * [tilix:github](https://github.com/gnunn1/tilix) | [tilix-web](https://gnunn1.github.io/tilix-web/) 
 
@@ -17,6 +17,8 @@
 * [vim-awesome:github](https://github.com/vim-awesome/vim-awesome), [vim-practice:github](https://github.com/oldratlee/vim-practice), [oh-my-vim:github](https://github.com/liangxianzhe/oh-my-vim)
 
 * shell, [awesome-shell:github](https://github.com/alebcay/awesome-shell)
+
+* [nano-editor](https://www.nano-editor.org/)
 
 `GUI`
 
