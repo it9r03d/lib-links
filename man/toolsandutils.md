@@ -18,7 +18,7 @@
 * shell, [awesome-shell:github](https://github.com/alebcay/awesome-shell)
 
 
-* [vim-awesome:github](https://github.com/vim-awesome/vim-awesome), [vim-practice:github](https://github.com/oldratlee/vim-practice), [oh-my-vim:github](https://github.com/liangxianzhe/oh-my-vim)
+* [vim](https://www.vim.org/), [vim:github](https://github.com/vim/vim), [vim-awesome:github](https://github.com/vim-awesome/vim-awesome), [vim-practice:github](https://github.com/oldratlee/vim-practice), [oh-my-vim:github](https://github.com/liangxianzhe/oh-my-vim)
 
 * [nano-editor](https://www.nano-editor.org/)
 
