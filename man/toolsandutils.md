@@ -10,15 +10,18 @@
 
 * [termite:github](https://github.com/thestinger/termite) | [Guake:github](https://github.com/Guake/guake 'Drop-down terminal for GNOME http://guake-project.org') | [guake-project](http://guake-project.org/)
 
+
 * zsh, [ohmyz.sh](https://ohmyz.sh/), [oh-my-zsh:github](https://github.com/robbyrussell/oh-my-zsh), [awesome-zsh-plugins:github](https://github.com/unixorn/awesome-zsh-plugins)
 
 * [fish:github](https://github.com/fish-shell/fish-shell), [awesome-fish:github](https://github.com/jorgebucaran/awesome-fish)
 
-* [vim-awesome:github](https://github.com/vim-awesome/vim-awesome), [vim-practice:github](https://github.com/oldratlee/vim-practice), [oh-my-vim:github](https://github.com/liangxianzhe/oh-my-vim)
-
 * shell, [awesome-shell:github](https://github.com/alebcay/awesome-shell)
 
+
+* [vim-awesome:github](https://github.com/vim-awesome/vim-awesome), [vim-practice:github](https://github.com/oldratlee/vim-practice), [oh-my-vim:github](https://github.com/liangxianzhe/oh-my-vim)
+
 * [nano-editor](https://www.nano-editor.org/)
+
 
 `GUI`
 
